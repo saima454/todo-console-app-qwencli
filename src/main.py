@@ -309,7 +309,7 @@ def main():
     """
     Main application loop with menu-driven interface.
     """
-    task_manager_instance = task_manager.TaskManager()
+    task_manager_instance = TaskManager()
 
     print("Welcome to the Console Todo App!")
 
